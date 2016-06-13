@@ -15,7 +15,7 @@ requirements = [
 
 
 description = "Straightforward concurrency for Python " \
-    "http://vanillapy.readthedocs.org/"
+    "https://vanillapy.readthedocs.io/"
 
 
 class PyTest(TestCommand):

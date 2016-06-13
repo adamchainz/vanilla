@@ -87,7 +87,7 @@ Status
 
 |Build Status|\ |Coverage Status|
 
-.. _Read the Docs: http://vanillapy.readthedocs.org/
+.. _Read the Docs: https://vanillapy.readthedocs.io/
 .. |Vanilla| image:: https://raw.githubusercontent.com/cablehead/vanilla/master/docs/_static/logo2.png
 .. |Build Status| image:: https://img.shields.io/travis/cablehead/vanilla.svg?style=flat-square
    :target: https://travis-ci.org/cablehead/vanilla
